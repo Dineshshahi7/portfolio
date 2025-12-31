@@ -80,7 +80,9 @@ This repository showcases my projects, skills, and practical work in data-driven
 ##  Contact
 - Email: *(add your professional email here)*  
 -  LinkedIn: *(add LinkedIn profile link here)*  
--  GitHub: https://github.com/Dineshshahi7  
+-  GitHub: https://github.com/Dineshshahi7
+-  Whatapp: 9868344301
+-  Contact: 9820431133
 
 ---
 
